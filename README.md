@@ -1,0 +1,2 @@
+# FRONTENDMENTOR-CHALLENGE-1
+ QR code component
